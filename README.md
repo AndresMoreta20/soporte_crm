@@ -2,7 +2,7 @@
 
 Soporte CRM es una aplicación de gestión de relaciones con clientes (CRM) diseñada para ayudar a las empresas a organizar y rastrear sus interacciones con los clientes. Este sistema está desarrollado utilizando OpenXava, un framework para el desarrollo rápido de aplicaciones empresariales Java.
 
-[![Nombre del Video](URL_de_la_imagen)](https://youtu.be/e1SK99TUM_Q)
+[![Miniatura del Video](https://img.youtube.com/vi/e1SK99TUM_Q/0.jpg)](https://youtu.be/e1SK99TUM_Q)
 
 
 ## Características
