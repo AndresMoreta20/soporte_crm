@@ -15,8 +15,8 @@ Soporte CRM es una aplicación de gestión de relaciones con clientes (CRM) dise
 ## Tecnologías Utilizadas
 
 - **Backend:** Java con OpenXava.
-- **Base de Datos:** [Incluir detalles de la base de datos utilizada].
-- **Frontend:** [Detalles del frontend, si aplica].
+- **Base de Datos:** MySQL.
+- **Frontend:** OpenXava.
 
 ## Requisitos de Sistema
 
